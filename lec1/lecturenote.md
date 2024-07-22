@@ -5,6 +5,6 @@ operating system basics
 * manager between HW (processor, memory, IO) and application
 # - efficiently shared by multiple processes simultaneously
 
-<img src="./pic/virtual.png" width="300px" height="150px" alt="virtual"></img> <br>
+<img src="/workspaces/cpu/lec1/pic/virtual.png" width="300px" height="150px" alt="virtual"></img> <br>
 
 
